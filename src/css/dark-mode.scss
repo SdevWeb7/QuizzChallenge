@@ -1,0 +1,22 @@
+.dark-mode {
+  background-color: #313E51;
+  background-image: url("../assets/images/pattern-background-desktop-dark.svg");
+
+  .container {
+    color: white;
+  }
+  .choice {
+    background-color: #3B4D66;
+    color: white;
+  }
+  .choice-p {
+    color: white;
+  }
+}
+
+@media (max-width: 400px) {
+  .dark-mode {
+    background-image: url("../assets/images/pattern-background-mobile-dark.svg");
+    background-size: contain;
+  }
+}
