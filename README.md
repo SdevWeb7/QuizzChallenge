@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot-light.jpg)
+![Screenshot](screenshot-light.jpg)
 (./screenshot-light1.jpg)
 (./screenshot-light2.jpg)
 (./screenshot-light3.jpg)
