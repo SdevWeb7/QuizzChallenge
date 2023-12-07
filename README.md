@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](screenshot-light.jpg)
-(./screenshot-light1.jpg)
-(./screenshot-light2.jpg)
-(./screenshot-light3.jpg)
-(./screenshot-light4.jpg)
-(./screenshot-dark.jpg)
+![Screenshot](screenshot-light1.jpg)
 
+
+![Screenshot](screenshot-light2.jpg)
+![Screenshot](screenshot-light3.jpg)
+![Screenshot](screenshot-light4.jpg)
+![Screenshot](screenshot-dark.jpg)
 
 ### Links
 
